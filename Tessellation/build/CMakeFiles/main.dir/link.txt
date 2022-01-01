@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/src/Edge.cpp.o CMakeFiles/main.dir/src/Face.cpp.o CMakeFiles/main.dir/src/FormTrait.cpp.o CMakeFiles/main.dir/src/LOOP.cpp.o CMakeFiles/main.dir/src/HalfEdge.cpp.o CMakeFiles/main.dir/src/Mesh.cpp.o CMakeFiles/main.dir/src/Vertex.cpp.o  -o main 
